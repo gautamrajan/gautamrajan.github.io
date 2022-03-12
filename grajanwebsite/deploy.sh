@@ -13,7 +13,7 @@ cd dist
 
 
 git add -A
-git commit -m 'Changed title tab and icon'
+git commit -m 'Added resume link'
 
 # if you are deploying to https://<USERNAME>.github.io
 git push -f git@github.com:gautamrajan/gautamrajan.github.io.git main
